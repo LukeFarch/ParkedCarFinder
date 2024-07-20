@@ -21,3 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "ParkedCarFinder"
 include(":app")
+
+# Modified by LukeF's script on 2024-07-19 22:08:04
